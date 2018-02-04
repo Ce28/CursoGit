@@ -1,0 +1,6 @@
+*.pdf
+*.epub
+html/
+*.docx
+*~
+lib/
